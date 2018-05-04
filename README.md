@@ -13,13 +13,13 @@ The REIT currently employs a third-party appraisal service for estimating the pr
 
 ## Proposed Alternative Working Solution
 
-The REIT has proposed to find a data-driven approach to valuing properties instead of relying on the personal expertise from the appraiser. The REIT currently have an untapped dataset of transaction prices for previous properties on the market which our model will be using. The target is to predict transaction prices with an average error of under $70,000, then REIT ccould replace inexperienced appraisers with the model.
+The REIT propose that a data-driven approach to valuing properties instead of relying on the personal expertise from the appraiser. The REIT currently have an untapped dataset of transaction prices for previous properties on the market which our model will be using. The target is to predict transaction prices with an average error of under $70,000, then REIT ccould replace inexperienced appraisers with the model.
 
 
 ## Problem Specification and Scope
 
-Deliverable: Trained model file
-<br>Machine learning task: Regression
-<br>Target variable: Transaction Price
-<br>Win condition: Avg. prediction error **< $70,000**, using Mean Absolute Error (MAE)
-<br>Timeline: 1 month
+**Deliverable:** Trained model file
+<br>**Machine learning task:** Regression
+<br>**Target variable:** Transaction Price
+<br>**Win condition:** Avg. prediction error **< $70,000**, using Mean Absolute Error (MAE)
+<br>**Timeline:** 1 month
