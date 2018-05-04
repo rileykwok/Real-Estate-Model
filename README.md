@@ -19,7 +19,7 @@ The REIT has proposed to find a data-driven approach to valuing properties inste
 ## Problem Specification and Scope
 
 Deliverable: Trained model file
-Machine learning task: Regression
-Target variable: Transaction Price
-Win condition: Avg. prediction error **< $70,000**, using Mean Absolute Error (MAE)
-Timeline: 1 month
+<br>Machine learning task: Regression
+<br>Target variable: Transaction Price
+<br>Win condition: Avg. prediction error **< $70,000**, using Mean Absolute Error (MAE)
+<br>Timeline: 1 month
